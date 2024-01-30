@@ -1,4 +1,9 @@
-node_modules/
-*.log
+# Compiled JavaScript files
+lib/**/*.js
+lib/**/*.js.map
 
-.DS_Store
+# TypeScript v1 declaration files
+typings/
+
+# Node.js dependency directory
+node_modules/
