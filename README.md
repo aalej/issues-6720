@@ -12,7 +12,6 @@ npm: v9.8.1
 1. Install dependencies for `functions`
    - Run `cd functions`
    - RUn `npm i`
-1. Run `cd ../`
 1. Run `npm run serve`
 1. Emulators start up without any issues
 1. Open "http://127.0.0.1:5001/PROJECT_ID/us-central1/helloWorld"
